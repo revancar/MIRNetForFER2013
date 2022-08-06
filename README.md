@@ -7,8 +7,10 @@ Tensorflow implementation of the MIRNet architecture as proposed by Learning Enr
 
 <div><h3>Citation</h3></div>
 
-<div style="padding: 10px; border: 2px solid red;">
-    @misc
+---
+**NOTE**
+
+@misc
     {
         2003.06792,
         Author = {Syed Waqas Zamir and Aditya Arora and Salman Khan and Munawar Hayat and Fahad Shahbaz Khan and Ming-Hsuan Yang and Ling Shao},
@@ -16,6 +18,9 @@ Tensorflow implementation of the MIRNet architecture as proposed by Learning Enr
         Year = {2020},
         Eprint = {arXiv:2003.06792},
     }
-</div>
+
+---
+    
+
 
 
