@@ -7,11 +7,18 @@ Tensorflow implementation of the MIRNet architecture as proposed by Learning Enr
 
 <div><h3>Citation</h3></div>
 
+<div class = "isi">
+    @misc
+    {
+        2003.06792,
+        Author = {Syed Waqas Zamir and Aditya Arora and Salman Khan and Munawar Hayat and Fahad Shahbaz Khan and Ming-Hsuan Yang and Ling Shao},
+        Title = {Learning Enriched Features for Real Image Restoration and Enhancement},
+        Year = {2020},
+        Eprint = {arXiv:2003.06792},
+    }
+</div>
 
-@misc{
-    2003.06792,
-    Author = {Syed Waqas Zamir and Aditya Arora and Salman Khan and Munawar Hayat and Fahad Shahbaz Khan and Ming-Hsuan Yang and Ling Shao},
-    Title = {Learning Enriched Features for Real Image Restoration and Enhancement},
-    Year = {2020},
-    Eprint = {arXiv:2003.06792},
+.isi{
+    background-color: #ff9800;
+    padding: 10px;
 }
