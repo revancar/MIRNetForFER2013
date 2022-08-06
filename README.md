@@ -7,7 +7,7 @@ Tensorflow implementation of the MIRNet architecture as proposed by Learning Enr
 
 <div><h3>Citation</h3></div>
 
-<div class = "isi">
+<div style="padding: 10px; border: 2px solid red;">
     @misc
     {
         2003.06792,
@@ -18,7 +18,4 @@ Tensorflow implementation of the MIRNet architecture as proposed by Learning Enr
     }
 </div>
 
-.isi{
-    background-color: #ff9800;
-    padding: 10px;
-}
+
